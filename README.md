@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Omar SElim
+- 👋 Hi, I’m Omar Selim
 - 👀 I’m interested in Programming specially (Js-nodejs-react-mysql-mongdb)
 - 🌱 I’m currently learning Wordpress Developping and php
 - 💞️ I’m looking to collaborate on freelancing works with team or someone who can work with me
